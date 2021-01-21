@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "722267084804",
+    "project_id": "uts2020affanridwan",
+    "storage_bucket": "uts2020affanridwan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722267084804:android:27dc2547c2ec1604837d51",
+        "android_client_info": {
+          "package_name": "com.asus.uts2020affanridwan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722267084804-in96canep241kl379eslgmf4thgunl5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf0r7DVtDgCuL2PUCn8jXlQWqfCTmupcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722267084804-in96canep241kl379eslgmf4thgunl5r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

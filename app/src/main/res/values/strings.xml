@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UTS2020AFFANRIDWAN</string>
+    <string name="copyright">@Copyright_AffanRidwan</string>
+    <string name="nama_tidak_boleh_kosong">Nama tidak boleh kosong</string>
+    <string name="password_harus_terdiri_dari_6_angka">Password harus terdiri dari 6 angka</string>
+    <string name="email_tidak_boleh_kosong">Email tidak boleh kosong</string>
+    <string name="hobi_tidak_boleh_kosong">Hobi tidak boleh kosong</string>
+    <string name="alamat_tidak_boleh_kosong">Alamat tidak boleh kosong</string>
+</resources>
